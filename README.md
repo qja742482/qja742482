@@ -1,7 +1,5 @@
 <div align="center">
-
-# Hi there 👋
-
+  
 ### qja742482
 
 보안과 AI를 공부하는 학생
